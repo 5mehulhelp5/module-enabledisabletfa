@@ -22,8 +22,7 @@ Maintained fork of `wolfsellers/module-enabledisabletfa`, verified on **Magento 
 ## Install
 
 ```bash
-composer config repositories.tfa vcs https://github.com/SISL-source/module-enabledisabletfa
-composer require wolfsellers/module-enabledisabletfa:dev-main
+composer require sisl-source/module-enabledisabletfa
 bin/magento module:enable WolfSellers_EnableDisableTfa
 bin/magento setup:upgrade
 ```
