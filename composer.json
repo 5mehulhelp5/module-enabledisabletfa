@@ -1,9 +1,8 @@
 {
-    "name": "wolfsellers/module-enabledisabletfa",
+    "name": "sisl-source/module-enabledisabletfa",
     "description": "Adds enable disable switch for the Two-factor Authorization",
     "type": "magento2-module",
     "license": "MIT",
-    "version": "1.0.4",
     "authors": [
         {
             "name": "Rus0",
